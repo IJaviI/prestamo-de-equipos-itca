@@ -1,5 +1,5 @@
 # Sistema de prestamo de equipos electrónicos 
-### Creado para ITCA-FEPADE
+### Creado para el prestamo de equipos de docentes en ITCA-FEPADE (Posible futura expansión para estudiantes).
 
 #### El sistema cuenta con los siguientes modulos:
 1. Cuentas de usuarios
@@ -10,8 +10,8 @@
    * Administracion del inventario (Solo administrador).
    * Inserción masiva mediante archivos .CSV (Solo administrador).
 3. Prestamos
-   * Realizar un prestamo (Admin y usuario).
-   * Historial de prestamos (Admin y usuario).
+   * Realizar un prestamo (Administrador y usuario).
+   * Historial de prestamos (Administrador y usuario).
    * Ver todos los prestamos, ya sea filtrados o no (Solo administrador).
 4. Reportes
    * Generación de reportes PDF y Excel en base a fechas o usuario (Solo administrador).
