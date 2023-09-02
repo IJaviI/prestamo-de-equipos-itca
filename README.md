@@ -13,6 +13,7 @@ Creado para el prestamo de equipos de docentes en ITCA Fepade, Santa Ana (Posibl
    * Realizar un prestamo (Administrador y usuario).
    * Historial de prestamos (Administrador y usuario).
    * Ver todos los prestamos, ya sea filtrados o no (Solo administrador).
+   * Asignar un prestamo (Solo administrador).
 4. Reportes
    * Generación de reportes PDF y Excel en base a fechas o usuario (Solo administrador).
 
@@ -30,11 +31,12 @@ Si se requiere de un despliegue rapido de la app por motivos de testeo u otros, 
 
 Vista previa de la app:
 
-![image](https://github.com/IJaviI/Prestamo-de-equipos-ITCA/assets/95502860/c555dbba-acf3-432d-8cc8-ccc56ba43978)
+![image](https://github.com/IJaviI/Prestamo-de-equipos-ITCA/assets/95502860/73b82031-00bb-4d2a-8168-0aac5fb8534e)
 
-![image](https://github.com/IJaviI/Prestamo-de-equipos-ITCA/assets/95502860/fce8e11d-9a9b-466f-906c-70483dc81242)
+![image](https://github.com/IJaviI/Prestamo-de-equipos-ITCA/assets/95502860/3fec7439-1152-4d4b-acf4-73510c68d7c9)
 
-![image](https://github.com/IJaviI/Prestamo-de-equipos-ITCA/assets/95502860/3fb35e74-77f2-4f0c-b5a0-983feaa5484f)
+![image](https://github.com/IJaviI/Prestamo-de-equipos-ITCA/assets/95502860/1552efe0-3801-410f-b93f-21505edc15d9)
 
-![image](https://github.com/IJaviI/Prestamo-de-equipos-ITCA/assets/95502860/e9320993-5211-40e6-b892-32c83e7343ba)
+![image](https://github.com/IJaviI/Prestamo-de-equipos-ITCA/assets/95502860/b5dfb01c-2697-48f3-8f32-b81cb0e07865)
+
 
