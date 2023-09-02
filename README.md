@@ -37,6 +37,7 @@ Vista previa de la app:
 
 ![image](https://github.com/IJaviI/Prestamo-de-equipos-ITCA/assets/95502860/3b9b388b-227c-467b-a341-71b3e9007475)
 
-![image](https://github.com/IJaviI/Prestamo-de-equipos-ITCA/assets/95502860/3b2f43dd-dbc4-49cd-8912-f79837373a73)
+![image](https://github.com/IJaviI/Prestamo-de-equipos-ITCA/assets/95502860/1730f177-a2ec-49c7-92b8-0dd94715625f)
+
 
 
