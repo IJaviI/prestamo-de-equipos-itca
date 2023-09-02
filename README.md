@@ -6,15 +6,15 @@ Creado para el prestamo de equipos de docentes en ITCA Fepade, Santa Ana (Posibl
    * **La primera vez que el sistema es usado se requiere crear un usuario, dicho usuario es administrador del sistema por defecto.**
    *  Perfil de usuario (Administrador y usuario).
    *  Administracion de cuentas de usuario (Solo administrador).
-2. Inventario de equipos
+3. Inventario de marcas, departamentos, aulas, y equipos
    * Administracion del inventario (Solo administrador).
    * Inserción masiva mediante archivos .CSV (Solo administrador).
-3. Prestamos
+4. Prestamos
    * Realizar un prestamo (Administrador y usuario).
    * Historial de prestamos (Administrador y usuario).
    * Ver todos los prestamos, ya sea filtrados o no (Solo administrador).
    * Asignar un prestamo (Solo administrador).
-4. Reportes
+5. Reportes
    * Generación de reportes PDF y Excel en base a fechas o usuario (Solo administrador).
 
 ## Despliegue de la aplicación mediante [XAMPP](https://www.apachefriends.org/download.html)
@@ -38,5 +38,3 @@ Vista previa de la app:
 ![image](https://github.com/IJaviI/Prestamo-de-equipos-ITCA/assets/95502860/1552efe0-3801-410f-b93f-21505edc15d9)
 
 ![image](https://github.com/IJaviI/Prestamo-de-equipos-ITCA/assets/95502860/b5dfb01c-2697-48f3-8f32-b81cb0e07865)
-
-
