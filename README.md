@@ -22,12 +22,12 @@ Si se requiere de un despliegue rapido de la app por motivos de testeo u otros, 
 1. Agregar la carpeta descomprimida al directorio **hdocts** en XAMPP, la ruta concreta es la siguiente: **(Particion donde se instalo XAMPP) -> C:\xampp\htdocs**.
 2. Ejecutar XAMPP.
 3. En el panel de control de XAMPP click **start** en Apache y MySQL.
-4. Abrir un navegador, por ejemplo firerfox y escribir **localhost/Prestamo-de-equipos-ITCA** en la barra de busqueda.
+4. Abrir un navegador, por ejemplo firerfox y escribir **localhost/prestamo-de-equipos-itca** en la barra de busqueda.
 5. Si se desea probar en mas dispositivos tomando como servidor al computador donde se desplegó la app, por ejemplo un dispositivo movil:
    * Verificar la ip del computador donde se desplegó la app, ejecutar comando **ipconfig** en la terminal/shell para obtener la ip.
    * Asegurarnos de estar conectados a la misma red que dicho computador.
    * Entrar al navegador del dispositivo.
-   * Escribir en la barra de busqueda: **ip del servidor (verificada antes, ejemplo: 192.168.5.5) -> 192.168.5.5/Prestamo-de-equipos-ITCA**.
+   * Escribir en la barra de busqueda: **ip del servidor (verificada antes, ejemplo: 192.168.5.5) -> 192.168.5.5/prestamo-de-equipos-itca**.
 
 Vista previa de la app:
 
